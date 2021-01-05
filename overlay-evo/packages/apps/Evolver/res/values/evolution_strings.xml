@@ -12,6 +12,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="evolution_about_maintainer">Sap1k</string>
+    <string name="evolution_about_maintainer">Aradhea Rizky Danusessia</string>
     <string name="evolution_about_maintainer_summary">A student that decided to build custom ROMs for some reason</string>
 </resources>
